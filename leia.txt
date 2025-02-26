@@ -1,0 +1,5 @@
+entre no arquivo process.php e altere as seguintes
+coloque o token do seu bot na linha 45
+coloque deu ID na linha 47
+
+@BlackhatZk
